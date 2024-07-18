@@ -1,0 +1,19 @@
+2024-03-17 18:44:48,497 7556 INFO ? odoo: Odoo version 17.0+e-20240317 
+2024-03-17 18:44:48,498 7556 INFO ? odoo: Using configuration file at D:\odoo\server\odoo.conf 
+2024-03-17 18:44:48,498 7556 INFO ? odoo: addons paths: ['D:\\odoo\\server\\odoo\\addons', 'd:\\odoo\\sessions\\addons\\17.0', 'd:\\odoo\\server\\odoo\\addons'] 
+2024-03-17 18:44:48,498 7556 INFO ? odoo: database: openpg@localhost:5432 
+2024-03-17 18:44:48,944 7556 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe 
+2024-03-17 18:44:49,679 7556 INFO ? odoo.service.server: Initiating shutdown 
+2024-03-17 18:44:49,679 7556 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-03-17 18:44:56,664 21072 INFO ? odoo: Odoo version 17.0+e-20240317 
+2024-03-17 18:44:56,664 21072 INFO ? odoo: Using configuration file at D:\odoo\server\odoo.conf 
+2024-03-17 18:44:56,664 21072 INFO ? odoo: addons paths: ['D:\\odoo\\server\\odoo\\addons', 'd:\\odoo\\sessions\\addons\\17.0', 'd:\\odoo\\server\\odoo\\addons'] 
+2024-03-17 18:44:56,665 21072 INFO ? odoo: database: openpg@localhost:5432 
+2024-03-17 18:44:56,828 21072 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe 
+2024-03-17 18:44:57,200 21072 INFO ? odoo.service.server: HTTP service (werkzeug) running on NB-Putu:8069 
+2024-03-17 18:44:57,246 21072 INFO ? odoo.sql_db: Connection to the database failed 
+2024-03-17 18:44:57,345 21072 INFO ? odoo.sql_db: Connection to the database failed 
+2024-03-17 18:45:54,503 21072 INFO ? odoo.sql_db: Connection to the database failed 
+2024-03-17 18:45:54,523 21072 INFO ? werkzeug: 127.0.0.1 - - [17/Mar/2024 18:45:54] "GET /websocket HTTP/1.1" 404 - 0 0.000 0.061
+2024-03-17 18:46:55,383 21072 INFO ? odoo.sql_db: Connection to the database failed 
+2024-03-17 18:46:55,383 21072 INFO ? werkzeug: 127.0.0.1 - - [17/Mar/2024 18:46:55] "GET /websocket HTTP/1.1" 404 - 0 0.000 0.049
